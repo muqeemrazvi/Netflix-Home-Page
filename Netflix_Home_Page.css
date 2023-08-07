@@ -1,0 +1,125 @@
+.headerPage img {
+    position: absolute;
+    width: 100%;
+    margin: -8px -8px;
+
+}
+
+
+
+.selectLang {
+    position: absolute;
+    margin-left: 960px;
+    width: 100px;
+    padding-top: 21px;
+
+}
+
+.selectLang img {
+    margin-left: 3px;
+    margin-top: 0px;
+    width: 28px;
+}
+
+#selectLang {
+    /* width: 90px; */
+    width: 126px;
+    height: 34px;
+    background: #000;
+    color: aliceblue;
+    border-color: #857a66;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: -7px;
+}
+
+
+select {
+    padding-right: 0.25rem;
+    min-width: auto;
+    width: auto;
+}
+
+.btnSign {
+    position: absolute;
+    margin-left: 1100px;
+    width: 100px;
+    padding-top: 21px;
+}
+
+.btnSign button {
+    height: 34px;
+    width: 74px;
+    font-size: 15px;
+    font-weight: bold;
+    background: #E50914;
+    color: aliceblue;
+    border-radius: 5px;
+    border-color: #E50914;
+    margin-left: 11px;
+    margin-top: -7px;
+}
+
+.contents {
+    position: absolute;
+    color: white;
+    text-align: center;
+    margin-top: 195px;
+    margin-left: 234px;
+}
+
+.contents h1 {
+    margin-bottom: -3px;
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif
+}
+
+.contents h3 {
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.875rem;
+}
+
+.par {
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.email1 {
+    border: #e4e4e4;
+    width: 39%;
+    padding: 1.5rem 1rem 0.5rem;
+    color: #bfb6b6;
+    background: rgb(0 0 0 / 66%);
+    border-color: #e4e4e4;
+    text-align: left;
+    padding: 16px;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    font-size: 17px;
+    height: 22px;
+    border-radius: 10px;
+
+}
+
+.contents button {
+    border-radius: 5px;
+    vertical-align: text-top;
+    width: 212px;
+    font-size: 1.5rem;
+    font-weight: 500;
+    /* min-height: 4.5rem; */
+    padding: 0.75rem 1.5rem;
+    background: rgb(229, 9, 20);
+    color: rgb(255, 255, 255);
+    border: rgb(229, 9, 20);
+    margin: -29px 4px;
+    height: 53px;
+    margin-top: -20px;
+}
+button:hover{
+    cursor: pointer;
+}
